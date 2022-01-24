@@ -7,12 +7,12 @@ your pools in Horizon's settings.
 Current designs:
 - [microdash](microdash/) - a minimal hitbox
 - [module](module/) - passinglink on an M.2 module, that can be assembled directly by JLCPCB
-  - [panthera](panthera/) - an adapter board for `module`
+- [panthera](panthera/) - an adapter board for `module`
 
 Legacy KiCAD designs:
   - Razer Panthera
-    - [STM32](panthera_stm32/)
-    - [NRF52840](panthera_e73/)
+    - [STM32](legacy/panthera_stm32/)
+    - [NRF52840](legacy/panthera_e73/)
 
 ### Copying
 Unless otherwise specified, everything in this repository is licensed under the MIT license.
